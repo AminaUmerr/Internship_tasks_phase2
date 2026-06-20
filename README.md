@@ -66,5 +66,4 @@ Global Superstore Dataset
 - Total Orders: 867
 - Technology category generates the highest sales among the three categories
 
-## Live Dashboard:
-         https://data-science-internship-phase2-ik5utc7wcarnrwmejkazeg.streamlit.app
+p
